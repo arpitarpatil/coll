@@ -11,3 +11,9 @@ main()
 result=PI*r*r;
 printf("Perimeter of circle:",result);
 }
+#include<stdio.h>
+main()
+{int l,b;
+result=l*b;
+printf("Area of rectangle:",result);
+}
