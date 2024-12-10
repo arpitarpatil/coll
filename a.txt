@@ -5,3 +5,9 @@ int r;
 result=2*PI*r;
 printf("Area of Circle:",result);
 }
+#include<stdio.h>
+main()
+{int r;
+result=PI*r*r;
+printf("Perimeter of circle:",result);
+}
