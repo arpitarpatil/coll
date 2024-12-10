@@ -1,0 +1,7 @@
+#include<stdio.h>
+main()
+{
+int r;
+result=2*PI*r;
+printf("Area of Circle:",result);
+}
